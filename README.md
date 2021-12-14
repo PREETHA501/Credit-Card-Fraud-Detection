@@ -4,7 +4,11 @@ Credit card fraud is a major problem that involves payment cards like credit car
 
 #### Dataset Description :
 
-Dataset taken from Kaggle.com. The creditcard.csv file represents a data set which contains only numerical input variables which are the result of a PCA transformation. Unfortunately, due to confidentiality issues, they cannot provide the original features and more background information about the data.
+Dataset taken from Kaggle.com. 
+
+Link: https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+The creditcard.csv file represents a data set which contains only numerical input variables which are the result of a PCA transformation. Unfortunately, due to confidentiality issues, they cannot provide the original features and more background information about the data.
 
 ### IMPLEMENTATION
 
